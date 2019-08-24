@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZapSure</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register_car">Register_car</string>
+    <string name="title_activity_car_profile">Car_profile</string>
+    <string name="title_activity_upload__pic__car">Upload_Pic_Car</string>
+    <string name="title_activity_claim_upload">Claim_upload</string>
+    <string name="title_activity_result">Result</string>
+</resources>
